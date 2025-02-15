@@ -1,0 +1,1 @@
+export const hero_link="https://media.istockphoto.com/id/1374010907/photo/shot-of-a-group-of-medical-practitioners-standing-together-in-a-hospital.webp?a=1&b=1&s=612x612&w=0&k=20&c=lGDuf7axrxdb8CSGZSBc4MiDStwumVeGENqp_tpCWz4="
